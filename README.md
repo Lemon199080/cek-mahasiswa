@@ -29,11 +29,10 @@ pip install python-telegram-bot requests
 
 ### 3. Konfigurasi
 
-Buka file `bot.py`, lalu pastikan mengganti variabel berikut:
+Buka file `bot.py`, lalu ganti variabel berikut:
 
 ```python
 TOKEN = "TOKEN_BOT_TELEGRAM_KAMU"
-API = "https://api.ryzendesu.vip/api/search/mahasiswa"  # API endpoint
 ```
 
 ### 4. Jalankan Bot
@@ -64,9 +63,7 @@ Bot akan membalas dengan data mahasiswa terkait.
 
 ---
 
-## 📌 Struktur Respons
-
-Bot akan mengembalikan informasi:
+## 📌 Respons
 
 * 🏷️ Nama
 * 🔢 NIM
