@@ -1,6 +1,6 @@
 # 🔎 Cari data mahasiswa
 
-Telegram bot sederhana ini memungkinkan pengguna untuk mencari data mahasiswa berdasarkan nama melalui integrasi dengan API eksternal. Dibangun menggunakan Python dan library python-telegram-bot.
+Telegram bot sederhana ini memungkinkan pengguna untuk mencari data mahasiswa berdasarkan nama melalui integrasi dengan API eksternal.
 
 ---
 
