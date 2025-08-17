@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "1956151616:AAETHsAQ-ex20nYqnroUopl8hiSKBagWtJ0"
+TOKEN = "token bot lu"
 API = "https://api.ryzendesu.vip/api/search/mahasiswa"
 
 async def cek_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -65,3 +65,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
